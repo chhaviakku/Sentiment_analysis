@@ -1,0 +1,1 @@
+install SpeechRecognition , pandas , torch , transformers , pyaudio packages
